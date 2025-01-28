@@ -17,3 +17,10 @@ __pycache__/
 
 # Ignore logs & temp files
 *.log
+
+gpt2_motivator/
+gpt2_motivator_medium/
+env/
+venv/
+.env
+*.db
