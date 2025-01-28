@@ -1,0 +1,19 @@
+# Ignore AI model files & training checkpoints
+gpt2_motivator/
+gpt2_motivator_medium/
+*.ckpt
+*.pth
+*.pt
+
+# Ignore API keys & sensitive config files
+.env
+config.py
+
+# Ignore virtual environments & cache files
+venv/
+env/
+__pycache__/
+*.db
+
+# Ignore logs & temp files
+*.log

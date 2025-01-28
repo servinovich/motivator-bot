@@ -1,0 +1,43 @@
+Channels:
+ - conda-forge
+ - defaults
+ - nvidia
+ - pytorch
+Platform: win-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: E:\PROG\Anaconda3\envs\gpt2_env
+
+  added / updated specs:
+    - accelerate
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    accelerate-1.3.0           |     pyhd8ed1ab_0         218 KB  conda-forge
+    psutil-6.1.1               |  py310ha8f682b_0         377 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         595 KB
+
+The following NEW packages will be INSTALLED:
+
+  accelerate         conda-forge/noarch::accelerate-1.3.0-pyhd8ed1ab_0 
+  psutil             conda-forge/win-64::psutil-6.1.1-py310ha8f682b_0 
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages: ...working...psutil-6.1.1         | 377 KB    |            |   0% 
+accelerate-1.3.0     | 218 KB    |            |   0% [Apsutil-6.1.1         | 377 KB    | ######3    |  64% 
+accelerate-1.3.0     | 218 KB    | #####8     |  59% [Apsutil-6.1.1         | 377 KB    | ########## | 100% 
+accelerate-1.3.0     | 218 KB    | ########## | 100% [Apsutil-6.1.1         | 377 KB    | ########## | 100% 
+accelerate-1.3.0     | 218 KB    | ########## | 100% [A                                                     
+                                                     [A done
+Preparing transaction: - done
+Verifying transaction: | / - \ done
+Executing transaction: / - \ | / - \ | / - \ | done
